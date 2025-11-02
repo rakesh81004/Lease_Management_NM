@@ -1,0 +1,9 @@
+﻿# Documentation
+
+Here contains the following:
+
+- Ideation Phase  
+- Performance Testing  
+- Project Design Phase  
+- Project Planning Phase  
+- Requirement Analysis  
